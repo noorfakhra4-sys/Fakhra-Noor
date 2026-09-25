@@ -1,0 +1,6 @@
+{
+  "name": "DODO.ai - Advanced AI Platform",
+  "description": "Next-generation AI workspace featuring high-accuracy AI Chat with real-time web search verification, AI image generator and editor, AI video creation studio, and public community gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
